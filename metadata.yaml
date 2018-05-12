@@ -1,0 +1,28 @@
+_repo: Solaris-Farm--A-Story-of-the-Twentieth-Century_31373
+_version: 0.1.0
+alternative_title: 'Solaris Farm: A Story of the 20th Century'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edson, Milan C.
+    gutenberg_agent_id: '35183'
+    url: http://www.gutenberg.org/2009/agents/35183
+description: ''
+gutenberg_issued: '2010-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31373'
+  lccn: 01029474
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Utopias'
+- !lcc 'HX'
+- !lcsh 'Cooperation'
+- !lcsh 'Agriculture, Cooperative'
+title: 'Solaris Farm: A Story of the Twentieth Century'
+url: http://www.gutenberg.org/ebooks/31373
